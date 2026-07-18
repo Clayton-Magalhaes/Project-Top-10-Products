@@ -45,11 +45,13 @@ The dashboard was designed for non-technical users, with a focus on quick insigh
 
 <img align="left" width="500" src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/ToolTip.png"> 
 
-Key Insights
-Top Revenue-Generating Product
-The Proseware Projector 1080p DLP86 White generated the highest revenue among all products analyzed.
-Difference Between Sales Volume and Revenue
+### Key Insights<br>
+Top Revenue-Generating Product.
+The Proseware Projector 1080p DLP86 White generated the highest revenue among all products analyzed.<br>
+Difference Between Sales Volume and Revenue<br>
 The analysis revealed that the product with the highest sales volume was not the same as the product with the highest revenue.
 This finding highlights that products with lower sales volume can generate more revenue due to their higher unit value and greater added value.
-Business Impact
+<br>
+<br>
+### Business Impact<br>
 The dashboard provides management with a clear view of product performance, enabling more informed decisions regarding pricing, promotions, inventory planning, and sales strategies. By comparing revenue and sales volume side by side, the company can better identify high-value products and optimize its commercial efforts.
