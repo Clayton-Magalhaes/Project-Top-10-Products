@@ -77,6 +77,8 @@ By combining SQL-based data extraction, dimensional modeling, data transformatio
 -Analysis of sales and business performance indicators<br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjYxNTY3YTktZmJhNS00MTIzLWE3Y2MtOWJiODViNjA2NDI2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
 </a> for ContosoRetailDW solution
+<br>
+<a href= "https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Dashboard%20Top%2010.pbix"> Click here </a> for pbix file on Github
 
 ## Tools and languages used
 <div>
