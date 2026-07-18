@@ -16,7 +16,8 @@ The following steps were performed:
 -Selected the top 10 products with the highest revenue.
 
 ### Business Value
-This analysis makes it possible to identify which products generate the greatest financial return for the company and compare high-volume products with those that generate the most revenue. These insights support decision-making related to inventory management, marketing investments, pricing strategies, and overall commercial planning.
+This analysis makes it possible to identify which products generate the greatest financial return for the company and compare high-volume products with those that generate the most revenue. These insights support decision-making related to inventory management, marketing investments, pricing strategies, and overall commercial planning.<br>
+<a href="" >Clique aqui</a> for Github SQL Script
 
 ## Data Preparation and Modeling in Power BI
 
