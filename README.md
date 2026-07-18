@@ -78,3 +78,9 @@ By combining SQL-based data extraction, dimensional modeling, data transformatio
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjYxNTY3YTktZmJhNS00MTIzLWE3Y2MtOWJiODViNjA2NDI2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
 </a> for ContosoRetailDW solution
 
+## Tools and languages used
+<div>
+<img  height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/sql.png?raw=true">
+<img  height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+</div>
+
