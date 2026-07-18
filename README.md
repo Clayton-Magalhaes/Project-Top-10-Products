@@ -1,4 +1,4 @@
-## SQL Query 
+## SQL Query - Exploratory Data Analysis
 
 The objective of this query was to identify the 10 products that generated the highest revenue for the company while also displaying the total quantity sold, enabling a comparative analysis between sales volume and financial performance.
 
