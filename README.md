@@ -27,3 +27,29 @@ During the data modeling phase, a Star Schema structure was adopted, with FactSa
 The Category and Subcategory dimensions were integrated into the Product dimension using Power Query, simplifying the data model and reducing the complexity of relationships. This approach improved model usability, performance, and ease of maintenance within Power BI.
 In addition, a custom calendar table was created to support time-based analyses and ensure alignment with Power BI data modeling best practices. This enabled consistent reporting across different time periods and facilitated the creation of time intelligence calculations and trend analyses.<br>
 <a href="https://app.powerbi.com/groups/me/modeling/67dfabc8-b962-4d0f-ac69-190270444662/modelView?redirectedFromSignup=1&experience=power-bi"> Click here</a> for Power BI Mdel View
+
+## Dashboard
+<img align="right" width="500" src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Filters.png">
+
+The dashboard was designed for non-technical users, with a focus on quick insights and effective decision-making.
+
+### Implemented Features
+
+-Executive KPIs<br>
+-Top 10 Revenue Ranking<br>
+-Top 10 Sales Volume Ranking<br>
+-<b>*Side filter panel*</b> displayed on the right<br>
+-<b>*Custom tooltip for detailed product analysis*</b> displayed right below<br>
+-Financial and operational indicators<br>
+-Intuitive navigation
+
+<img align="left" width="500" src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/ToolTip.png"> 
+
+Key Insights
+Top Revenue-Generating Product
+The Proseware Projector 1080p DLP86 White generated the highest revenue among all products analyzed.
+Difference Between Sales Volume and Revenue
+The analysis revealed that the product with the highest sales volume was not the same as the product with the highest revenue.
+This finding highlights that products with lower sales volume can generate more revenue due to their higher unit value and greater added value.
+Business Impact
+The dashboard provides management with a clear view of product performance, enabling more informed decisions regarding pricing, promotions, inventory planning, and sales strategies. By comparing revenue and sales volume side by side, the company can better identify high-value products and optimize its commercial efforts.
