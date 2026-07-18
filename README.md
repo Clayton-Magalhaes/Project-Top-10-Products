@@ -17,7 +17,7 @@ The following steps were performed:
 
 ### Business Value
 This analysis makes it possible to identify which products generate the greatest financial return for the company and compare high-volume products with those that generate the most revenue. These insights support decision-making related to inventory management, marketing investments, pricing strategies, and overall commercial planning.<br>
-<a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Queries/SQLQuery1.sql" >Clique aqui</a> for Github SQL Script
+<a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Queries/SQLQuery1.sql" >Click here</a> for Github SQL Script
 
 ## Data Preparation and Modeling in Power BI
 
@@ -25,4 +25,5 @@ This analysis makes it possible to identify which products generate the greatest
 
 During the data modeling phase, a Star Schema structure was adopted, with FactSales serving as the central fact table.
 The Category and Subcategory dimensions were integrated into the Product dimension using Power Query, simplifying the data model and reducing the complexity of relationships. This approach improved model usability, performance, and ease of maintenance within Power BI.
-In addition, a custom calendar table was created to support time-based analyses and ensure alignment with Power BI data modeling best practices. This enabled consistent reporting across different time periods and facilitated the creation of time intelligence calculations and trend analyses.
+In addition, a custom calendar table was created to support time-based analyses and ensure alignment with Power BI data modeling best practices. This enabled consistent reporting across different time periods and facilitated the creation of time intelligence calculations and trend analyses.<br>
+<a href="https://app.powerbi.com/groups/me/modeling/67dfabc8-b962-4d0f-ac69-190270444662/modelView?redirectedFromSignup=1&experience=power-bi"> Click here</a> for Power BI Mdel View
