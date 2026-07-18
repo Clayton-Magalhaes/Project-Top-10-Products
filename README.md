@@ -55,6 +55,9 @@ This finding highlights that products with lower sales volume can generate more 
 <br>
 ### Business Impact<br>
 The dashboard provides management with a clear view of product performance, enabling more informed decisions regarding pricing, promotions, inventory planning, and sales strategies. By comparing revenue and sales volume side by side, the company can better identify high-value products and optimize its commercial efforts.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYjYxNTY3YTktZmJhNS00MTIzLWE3Y2MtOWJiODViNjA2NDI2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
+</a> for Dashboard interactive visualization
 
 ## Final Outcome
 <img align="right" width="600" src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard.png"> 
