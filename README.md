@@ -17,7 +17,7 @@ The following steps were performed:
 
 ### Business Value
 This analysis makes it possible to identify which products generate the greatest financial return for the company and compare high-volume products with those that generate the most revenue. These insights support decision-making related to inventory management, marketing investments, pricing strategies, and overall commercial planning.<br>
-<a href="" >Clique aqui</a> for Github SQL Script
+<a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Queries/SQLQuery1.sql" >Clique aqui</a> for Github SQL Script
 
 ## Data Preparation and Modeling in Power BI
 
