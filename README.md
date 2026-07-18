@@ -20,7 +20,7 @@ This analysis makes it possible to identify which products generate the greatest
 
 ## Data Preparation and Modeling in Power BI
 
-<img align="right" width="500"  src="">
+<img align="left" width="500" src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Star%20Schema.png">
 
 During the data modeling phase, a Star Schema structure was adopted, with FactSales serving as the central fact table.
 The Category and Subcategory dimensions were integrated into the Product dimension using Power Query, simplifying the data model and reducing the complexity of relationships. This approach improved model usability, performance, and ease of maintenance within Power BI.
