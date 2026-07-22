@@ -1,6 +1,7 @@
 ## SQL Query - Exploratory Data Analysis
 
-The objective of this query was to identify the 10 products that generated the highest revenue for the company while also displaying the total quantity sold, enabling a comparative analysis between sales volume and financial performance.
+The objective of this query was to identify the 10 products that generated the highest revenue for the company while also displaying the total quantity sold, enabling a comparative analysis between sales volume and financial performance.<br>
+By downloading the ContosoRetailDW file and attaching it to SQL Server, it is possible to run each SQL query used in this analysis and obtain the same results presented.
 
 <img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/SQL%20Screenshots/Query%20Top%2010.png">
 
